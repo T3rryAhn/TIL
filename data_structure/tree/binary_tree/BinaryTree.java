@@ -1,4 +1,4 @@
-package tree.binary_tree;
+package data_structure.tree.binary_tree;
 
 /*
  * 필요한것

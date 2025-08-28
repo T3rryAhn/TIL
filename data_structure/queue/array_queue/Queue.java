@@ -1,4 +1,4 @@
-package queue.array_queue;
+package data_structure.queue.array_queue;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package tree.binary_tree;
+package data_structure.tree.binary_tree;
 
 public class Test {
     public static void main(String[] args) {

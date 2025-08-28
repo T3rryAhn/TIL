@@ -1,4 +1,4 @@
-package tree.traversal;
+package data_structure.tree.traversal;
 
 public class TreeTraversal {
     // \u0000 == null;
