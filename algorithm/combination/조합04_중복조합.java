@@ -1,4 +1,4 @@
-package algorythm.combination;
+package algorithm.combination;
 
 import java.util.ArrayList;
 import java.util.Arrays;

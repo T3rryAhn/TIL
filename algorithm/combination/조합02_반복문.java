@@ -1,4 +1,4 @@
-package algorythm.combination;
+package algorithm.combination;
 
 public class 조합02_반복문 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package algorythm.bitwize_operator;
+package algorithm.bitwize_operator;
 /*
  * 재료가 3개인 김밥의 조합을 보는 코드
  */
